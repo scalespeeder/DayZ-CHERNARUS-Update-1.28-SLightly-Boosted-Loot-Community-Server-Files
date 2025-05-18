@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+
+ <message>
+        <deadline>720</deadline>
+        <shutdown>1</shutdown>
+        <text>#name will shutdown in #tmin minutes.</text>
+    </message>
+
+</messages>

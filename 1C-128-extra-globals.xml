@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<variables>
+	<var name="IdleModeCountdown" type="0" value="600"/>
+	<var name="LootDamageMax" type="1" value="0.0"/>
+	<var name="LootDamageMin" type="1" value="0.0"/>
+	<var name="TimeLogin" type="0" value="5"/>
+    <var name="TimeLogout" type="0" value="5"/>
+
+</variables>
